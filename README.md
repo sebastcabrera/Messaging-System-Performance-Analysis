@@ -7,4 +7,5 @@ This project analyzes system update times across two email messaging interfaces 
 - Confidence intervals and hypothesis testing
 
 **Key Insight**
+
 Interface 1 demonstrated significantly faster update times and more consistent performance.
